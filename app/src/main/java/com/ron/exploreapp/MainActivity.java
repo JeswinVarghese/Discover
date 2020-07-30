@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 import android.widget.ImageView;
 
+
 public class MainActivity extends AppCompatActivity {
     RecyclerView rest_recyclerview,mostsearched_recyclerview ;
     int most_searched[]={R.drawable.kochi,R.drawable.alp,R.drawable.kumarakom,R.drawable.kovalam,R.drawable.varkala};
